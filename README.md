@@ -11,7 +11,7 @@ Materials for ACL-2022 tutorial: A Gentle Introduction to Deep Nets and Opportun
 <p>
 Yanjun Ma
 <p>
-Zeyu Chen
+<img src="instructors/ZeyuChen.jpg" alt="Zeyu Chen" width=140> Zeyu Chen
 
 
 
