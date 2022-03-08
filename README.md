@@ -10,7 +10,7 @@ Materials for ACL-2022 tutorial: A Gentle Introduction to Deep Nets and Opportun
 <p>
 <img src="instructors/ErnestDavis.jpg" alt="Ernest Davis" width=140> Ernest Davis
 <p>
-<img src="instructors/ZeyuChen.jpg" alt="JanjunMa.jpg" width=140> Janjun Ma
+<img src="instructors/JanjunMa.jpg" alt="JanjunMa.jpg" width=140> Janjun Ma
 <p>
 <img src="instructors/ZeyuChen.jpg" alt="Zeyu Chen" width=140> Zeyu Chen
 
