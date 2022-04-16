@@ -13,7 +13,7 @@ Quick Links:
     <tr>                 <td> <table><tr><td><img src="instructors/KenChurch.jpg" alt="Ken Church" width=140></td></tr><tr><td>Ken Church</td></tr><tr><td>Baidu, USA</td></tr></table></td>
 		    	 <td> <table><tr><td><img src="instructors/ValiaKordoni.jpeg" alt="Valia Kordoni" width=140> </td></tr><tr><td>Valia Kordoni</td></tr><tr><td>Humboldt-Universitaet zu Berlin, Germany</td></tr></table></td></tr>
     <tr> 
-		    	 <td><table><tr><td><img src="instructors/JanjunMa.jpg" alt="JanjunMa.jpg" width=140> </td></tr><tr><td>Janjun Ma</td></tr></tr><tr><td>Baidu, China</td></tr></table></td>
+		    	 <td><table><tr><td><img src="instructors/YanjunMa.jpg" alt="YanjunMa.jpg" width=140> </td></tr><tr><td>Yanjun Ma</td></tr></tr><tr><td>Baidu, China</td></tr></table></td>
 			 <td><table><tr><td><img src="http://garymarcus.com/rw_common/images/r9Z9V9K2RNuITm5s6lAdLw_thumb_c987.jpg" alt="Gary Marcus" width=140> </td></tr><tr><td>Gary Marcus</td></tr><tr><td>Robust.AI</td></tr></table></td></tr>
     <tr>		 <td><table><tr><td><img src="instructors/ZeyuChen.jpg" alt="Zeyu Chen" width=140> </td></tr><tr><td>Zeyu Chen</td></tr></tr><tr><td>Baidu, China</td></tr></table></td>
 			 <td><table><tr><td><img src="instructors/ErnestDavis.jpg" alt="Ernest Davis" width=140> </td></tr><tr><td>Ernest Davis</td></tr></tr><tr><td>New York University</td></tr></table></td></tr></table>
