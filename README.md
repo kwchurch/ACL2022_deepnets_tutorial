@@ -12,6 +12,7 @@ Quick Links:
 <ol>
 <li><a href="https://github.com/kwchurch/gft">gft code</a></li>
 <li><a href="papers/1.pdf">paper</a></li>
+<li><a href="https://youtu.be/IKjx38AV4bo">10 minute video</a></li>
 <li><a href="slides/Part_A.pptx">slides for Part A (pptx)</a></li>
 <li><a href="slides/Part_A.pdf">slides for Part A (pdf)</a></li>
 </ol>
