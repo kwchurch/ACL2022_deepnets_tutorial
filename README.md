@@ -12,10 +12,16 @@ Quick Links:
 <ol>
 <li><a href="https://github.com/kwchurch/gft">gft code</a></li>
 <li><a href="papers/1.pdf">paper</a></li>
-<li><a href="https://youtu.be/IKjx38AV4bo">10 minute video</a></li>
-<li><a href="slides/Part_A.pptx">slides for Part A (pptx)</a></li>
-<li><a href="slides/Part_A.pdf">slides for Part A (pdf)</a></li>
+<li>Videos<ol>
+	<li><a href="https://youtu.be/IKjx38AV4bo">10 minute teaser</a></li>
+	<li><a href="https://youtu.be/fWS-pgKYE_o">Part A (1:16)</a></li>
+	</ol></li>
+<li>Slides for Part A<ol>
+  		   <li><a href="slides/ACL-2022_tutorial_slides_part_A">3 pptx files</a></li>
+		   <li><a href="slides/ACL-2022_tutorial_slides_part_A/ACL-2022_tutorial_part_A_V5.pdf">pdf</a></li>
+		   </ol></li>
 </ol>
+
 <p>
 <table><tr><th>Part A: Half Full</th><th>Part B: Half Empty</th></tr>
     <tr>                 <td> <table><tr><td><img src="instructors/KenChurch.jpg" alt="Ken Church" width=140></td></tr><tr><td>Ken Church</td></tr><tr><td>Baidu, USA</td></tr></table></td>
