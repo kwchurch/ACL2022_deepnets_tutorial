@@ -10,9 +10,9 @@ The first half of this tutorial will make deep nets more accessible to a broader
 <p>
 Quick Links:
 <ol>
-<li>Videos 📽️<<ol>
-	<li>📽️<<a href="https://youtu.be/IKjx38AV4bo">10 minute TEASER (for both halves)</a></li>
-	<li>🆕📽️<<a href="https://youtu.be/fWS-pgKYE_o">First half (1 hour 16 minutes) UNABRIDGED</a></li>
+<li>Videos 📽️ <ol>
+	<li>📽️ <a href="https://youtu.be/IKjx38AV4bo">10 minute TEASER (for both halves)</a></li>
+	<li>🆕📽️  <a href="https://youtu.be/fWS-pgKYE_o">First half (1 hour 16 minutes) UNABRIDGED</a></li>
 	</ol></li>
 <li><a href="https://github.com/kwchurch/gft">gft code</a></li>
 <li><a href="papers/1.pdf">paper</a></li>
