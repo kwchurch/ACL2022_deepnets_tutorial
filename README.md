@@ -16,9 +16,9 @@ Quick Links:
 	</ol></li>
 <li><a href="https://github.com/kwchurch/gft">gft code</a></li>
 <li><a href="papers/1.pdf">paper</a></li>
-<li>Slides for Part A<ol>
-  		   <li><a href="slides/ACL-2022_tutorial_slides_part_A">3 pptx files</a></li>
-		   <li><a href="slides/ACL-2022_tutorial_slides_part_A/ACL-2022_tutorial_part_A_V5.pdf">pdf</a></li>
+<li>Slides<ol>
+		   <li><a href="slides/ACL-2022_tutorial_slides_part_A/Part_A.pdf">Part A (pdf)</a> and <a href="slides/ACL-2022_tutorial_slides_part_B/Part_B.pdf">Part B(pdf)</a></li>
+  		   <li><a href="slides/ACL-2022_tutorial_slides_part_A">3 pptx files</a> and <a href="slides/ACL-2022_tutorial_slides_part_B">1 more pptx file</a></li>
 		   </ol></li>
 </ol>
 
