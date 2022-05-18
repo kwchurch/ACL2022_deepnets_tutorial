@@ -12,7 +12,9 @@ Quick Links:
 <ol>
 <li>Videos 📽️ <ol>
 	<li>📽️ <a href="https://youtu.be/IKjx38AV4bo">10 minute TEASER (for both halves)</a></li>
-	<li>🆕📽️  <a href="https://youtu.be/fWS-pgKYE_o">First half (1 hour 16 minutes) UNABRIDGED</a></li>
+	<li>🆕📽️  <a href="https://youtu.be/fWS-pgKYE_o">First half (1 hour 16 minutes) UNABRIDGED</a> (YouTube);
+<a href="https://www.bilibili.com/video/BV1Y54y1Z7H6?spm_id_from=444.41.list.card_archive.click"> mirror of above </a> (Bilibili)
+</li>
 	</ol></li>
 <li><a href="https://github.com/kwchurch/gft">gft code</a></li>
 <li><a href="papers/1.pdf">paper</a></li>
