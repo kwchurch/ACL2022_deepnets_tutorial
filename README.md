@@ -17,7 +17,8 @@ Quick Links:
 </li>
 	</ol></li>
 <li><a href="https://github.com/kwchurch/gft">gft code</a></li>
-<li><a href="papers/1.pdf">paper</a></li>
+
+<li><a href="https://aclanthology.org/2022.acl-tutorials.1/">paper</a></li>
 <li>Slides<ol>
 		   <li><a href="slides/ACL-2022_tutorial_part_AB_V7.pdf">pdf</a></li>
   		   <li><a href="slides/ACL-2022_tutorial_slides_part_A">3 pptx files</a> and <a href="slides/ACL-2022_tutorial_slides_part_B">1 more pptx file</a></li>
@@ -33,15 +34,3 @@ Quick Links:
 			 <td><table><tr><td><img src="http://garymarcus.com/rw_common/images/r9Z9V9K2RNuITm5s6lAdLw_thumb_c987.jpg" alt="Gary Marcus" width=140> </td></tr><tr><td>Gary Marcus</td></tr><tr><td>Robust.AI</td></tr></table></td></tr>
     <tr>		 <td><table><tr><td><img src="instructors/ZeyuChen.jpg" alt="Zeyu Chen" width=140> </td></tr><tr><td>Zeyu Chen</td></tr></tr><tr><td>Baidu, China</td></tr></table></td>
 			 <td><table><tr><td><img src="instructors/ErnestDavis.jpg" alt="Ernest Davis" width=140> </td></tr><tr><td>Ernest Davis</td></tr></tr><tr><td>New York University</td></tr></table></td></tr></table>
-			 
-			 
-			 
-
-
-
-
-
-
-
-
-
