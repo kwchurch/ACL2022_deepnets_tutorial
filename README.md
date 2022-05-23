@@ -19,9 +19,10 @@ Quick Links:
 <li><a href="https://github.com/kwchurch/gft">gft code</a></li>
 
 <li><a href="https://aclanthology.org/2022.acl-tutorials.1/">paper</a></li>
+<li><a href="https://www.doi.org/10.1017/S1351324922000237">longer journal paper on gft (general fine-tuning)</a></li>
 <li>Slides<ol>
-		   <li><a href="slides/ACL-2022_tutorial_part_AB_V7.pdf">pdf</a></li>
-  		   <li><a href="slides/ACL-2022_tutorial_slides_part_A">3 pptx files</a> and <a href="slides/ACL-2022_tutorial_slides_part_B">1 more pptx file</a></li>
+		   <li><a href="slides/ACL-2022_tutorial_part_AB_V8.pdf">pdf</a></li>
+  		   <li><a href="slides/ACL-2022_tutorial_slides_part_A">3 pptx files</a> and <a href="slides/ACL-2022_tutorial_slides_part_B/ACL2022-Part2Final.pptx">1 more pptx file</a></li>
 		   </ol></li>
 </ol>
 
